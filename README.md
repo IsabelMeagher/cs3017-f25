@@ -31,6 +31,8 @@ We can add emphasis to text with *asterisks* to create itialics or **bold** text
 3.  This the third item.
     1. This is the first item in a sublist.
 
+## Links to Other Places
 
+[Google Search](https://google.com)
 
-
+[Class 3](class.md)
