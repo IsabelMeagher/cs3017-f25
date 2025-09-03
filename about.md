@@ -25,9 +25,9 @@ In my free time I like to make jewelry, my favorite being braclets. I also love 
 
 ## Where to Find Me
 
-(https://github.com/IsabelMeagher)
+[My Github Profile](https://github.com/IsabelMeagher)
 
-(https://github.com/IsabelMeagher/cs3017-f25)
+[Github HW](https://github.com/IsabelMeagher/cs3017-f25)
 
 ![A young female golden retriever is sitting and wearing sunglasses on a sunny winter day, snowy background with pine trees] (https://images.unsplash.com/photo-1682366257600-208c5f8b4970?q=80&w=2525&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 Barnabas Davoti, 2023
