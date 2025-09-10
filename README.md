@@ -38,3 +38,6 @@ We can add emphasis to text with *asterisks* to create itialics or **bold** text
 [Class 3](class3.md)
 
 [subsection example](#subsection-example)
+
+# Example Image
+![Many green trees](trees.jpg)
